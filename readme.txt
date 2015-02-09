@@ -6,4 +6,3 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 merge --no-ff
 learn git in stach
-11111
